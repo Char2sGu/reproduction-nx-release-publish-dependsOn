@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@nx/js": "^18.2.3",
     "nx": "18.1.1"
-  },
-  "dependencies": {}
+  }
 }
